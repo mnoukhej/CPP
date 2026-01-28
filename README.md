@@ -22,7 +22,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnoukhej/.git
+   git clone https://github.com/mnoukhej/CPP.git
 
 2. Run the setup script (Windows only):
    ```bash
